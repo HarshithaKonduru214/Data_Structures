@@ -6,3 +6,4 @@
 
 <h2>ARRAYS</h2>
 1920. https://leetcode.com/problems/build-array-from-permutation/description/ <br>
+1929. https://leetcode.com/problems/concatenation-of-array/description/ <br>
