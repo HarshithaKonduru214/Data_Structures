@@ -1,2 +1,2 @@
-# Data_Structures
+# Data Structures
 Data Structures in Java
