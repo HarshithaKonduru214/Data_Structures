@@ -5,6 +5,7 @@
 2. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/solutions/)
 
 ## ARRAYS
+1. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)
 1. [Shuffle The Array](https://leetcode.com/problems/shuffle-the-array/description/)
 2. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)
 3. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/)
