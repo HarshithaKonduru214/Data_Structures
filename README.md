@@ -2,6 +2,7 @@
 
 ## PATTERNS
 1. [N-Forest](https://www.codingninjas.com/studio/problems/n-forest_6570177?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_patternproblems&leftPanelTabValue=PROBLEM)
+2. [N/2-Forest](https://www.codingninjas.com/studio/problems/n-2-forest_6570178?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_patternproblems&leftPanelTabValue=PROBLEM)
 
 ## BASIC MATH
 1. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
