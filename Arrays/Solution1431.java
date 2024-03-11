@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class Solution1431 {
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
         ArrayList<Boolean> result = new ArrayList<Boolean>(candies.length);
