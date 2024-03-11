@@ -1,5 +1,8 @@
 # Data Structures
 
+## PATTERNS
+1. [N-Forest](https://www.codingninjas.com/studio/problems/n-forest_6570177?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_patternproblems&leftPanelTabValue=PROBLEM)
+
 ## BASIC MATH
 1. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
 2. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/solutions/)
