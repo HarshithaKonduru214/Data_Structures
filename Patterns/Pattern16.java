@@ -1,13 +1,14 @@
 //Print the below Pattern, for the given value of N
-//1
-//2 2 
-//3 3 3
-public class Pattern4 {
-    public static void nTriangle(int n) {
+//A
+//B B
+//C C C 
+public class Pattern16 {   
+    public static void alphaRamp(int n) {
         // Write your code here
         for(int row = 0; row < n; row++) {
             for(int column = 0; column < row + 1; column++) {
-                System.out.print(row + 1 + " ");
+                char alphabet = (char)((char)'A' + row);
+                System.out.print(alphabet + " ");
             }
             System.out.println();
         }

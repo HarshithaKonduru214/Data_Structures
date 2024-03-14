@@ -5,9 +5,10 @@
 public class Pattern3 {
     public static void nTriangle(int n) {
         // Write your code here
-        for(int i = 1; i < n + 1; i++) {
-            for(int j = 1; j < i + 1; j++) {
-                System.out.print(j + " ");
+        for(int row = 0; row < n; row++) {
+            int numbers = row + 1;
+            for(int column = 0; column < numbers; column++) {
+                System.out.print(column + 1 + " ");
             }
             System.out.println();
         }

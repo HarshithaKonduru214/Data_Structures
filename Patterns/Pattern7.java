@@ -5,21 +5,22 @@
 public class Pattern7 {
     public static void nStarTriangle(int n) {
         // Write your code here
-        for(int i = 0; i < n; i++) {
-            //Print the spaces
-            for(int j = 0; j < n - i - 1; j++) {
+        for(int row = 0; row < n; row++) {
+            int numberOfSpaces = n - row - 1;
+            int numberOfStars = 2 * row + 1;
+
+            for(int column = 0; column < numberOfSpaces; column++) {
                 System.out.print(" ");
             }
 
-            //Print the stars
-            for(int j = 0; j < 2 * i  + 1; j++) {
+            for(int column = 0; column < numberOfStars; column++) {
                 System.out.print("*");
             }
 
-            //Print the spaces
-            for(int j = 0; j < n - i + 1; j++) {
+            for(int column = 0; column < numberOfSpaces; column++) {
                 System.out.print(" ");
             }
+
             System.out.println();
         }
     }

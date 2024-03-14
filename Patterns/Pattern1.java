@@ -5,11 +5,11 @@
 public class Pattern1 {
     public static void nForest(int n) {
         // Write your code here
-        for(int i = 0; i < n; i++) {
-            for(int j = 0; j < n; j++) {
+        for(int row = 0; row < n; row++) {
+            for(int column = 0; column < n; column++) {
                 System.out.print("* ");
             }
-            System.out.print("\n");
+            System.out.println();
         }
     }
 }
