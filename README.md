@@ -25,9 +25,12 @@
 22. [Ninja And The Number Pattern](https://www.codingninjas.com/studio/problems/ninja-and-the-number-pattern-i_6581959?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_patternproblems)
     
 ## BASIC MATH
-1. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
-2. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/solutions/)
-3. [Count Digits](https://www.codingninjas.com/studio/problems/count-digits_8416387?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
+1. [Count Digits](https://www.codingninjas.com/studio/problems/count-digits_8416387?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
+2. [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
+3. [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
+5. [Check Armstrong](https://www.codingninjas.com/studio/problems/check-armstrong_589?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
+6. [Sum of all divisors](https://www.codingninjas.com/studio/problems/sum-of-all-divisors_8360720?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
+7. [Check Prime](https://www.codingninjas.com/studio/problems/check-prime_624934?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 
 ## ARRAYS
 1. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)
