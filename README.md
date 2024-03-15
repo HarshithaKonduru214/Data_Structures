@@ -28,6 +28,7 @@
 1. [Count Digits](https://www.codingninjas.com/studio/problems/count-digits_8416387?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 2. [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
 3. [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
+4. [GCD or HCF](https://www.codingninjas.com/studio/problems/hcf-and-lcm_840448?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 5. [Check Armstrong](https://www.codingninjas.com/studio/problems/check-armstrong_589?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 6. [Sum of all divisors](https://www.codingninjas.com/studio/problems/sum-of-all-divisors_8360720?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 7. [Check Prime](https://www.codingninjas.com/studio/problems/check-prime_624934?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
