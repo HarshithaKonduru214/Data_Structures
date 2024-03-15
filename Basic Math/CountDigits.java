@@ -1,8 +1,7 @@
-//You are given a number ’n’.
-//Find the number of digits of ‘n’ that evenly divide ‘n’.
-public class BasicMath3 {
+public class CountDigits {
     public static int countDigits(int n){
         // Write your code here.
+        //Time complexity - O(log10(n))
         int number = n;
         int count = 0;
         while(number > 0) {
